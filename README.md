@@ -9,10 +9,14 @@ Songbook of fun songs ;-)
 ## Compilation
 To compile into pdf (With songs packeg installed):
 Run following in the directory with the main file:
-pdflatex main.tex
-songidx titlfile.sxd titlfile.sbx 
-songidx authfile.sxd authfile.sbx
+
 pdflatex main.tex
 
-Voila, you have
+songidx titlfile.sxd titlfile.sbx 
+
+songidx authfile.sxd authfile.sbx
+
+pdflatex main.tex
+
+Voila, you are done.
 
