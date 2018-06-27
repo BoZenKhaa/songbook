@@ -1,34 +1,27 @@
 \beginsong{Soňa ví}[by={Svěrák, Uhlíř}]
 
 \beginverse
- [C]Žárovičkou nula celá tři watty
-   [Ami]svítím si a hledám volný priváty
-   F                Dmi       G
-   všude mají devizový cizince
-   F                     Dmi            G
-   dneska, lásko, nebudem spát v peřince
-
-   C          F         G  C         F            G G7
-R: Soňa si píše deník a zapsala tam: seník, jó sení k
-     G      C           F             G   C
-   |: Soňa ví, Soňa ví, jak je seno voňavý
-   G      C           F  G           C
-   Soňa ví, Soňa ví, jak je voňavý :|
-   D            D7      G     D G
-   u levýho ouška mateřídouška
-   D              D7        G     F Emi
-   u pravýho spánku voní po heřmánk u
-   G      C           F            G   C
-   Soňa ví, Soňa ví, jak je seno voňavý
-   G      C           F  G        C
-   Soňa ví, Soňa ví, jak je voňavý
-
-2. Soňa touží navštěvovat hotely
-   kde vám dají snídani až k posteli
-   z toho mráčku asi pršet nezačne
-   koukali jsme na ceny, jsou přízračné
-   Soňa si píše deník a opsala tam: ceník, jó ceník
-
-R: Soňa ví, Soňa ví...
+\[C]Žárovičkou nula celá tři watty
+\[Ami]svítím si a hledám volný priváty
+\[F]všude mají devi\[Dmi]zový ci\[G]zince
+\[F]dneska, lásko, nebudem \[Dmi]spát v peřin\[G]ce
 \endverse
+\beginchorus
+\[C]Soňa si \[F]píše deník \[G]a \[C]zapsala tam: sen\[F]ík, jó sení\[G]\[G]k
+|:\[G]Soňa \[C]ví, Soňa \[F]ví, jak je \[G]seno \[C]voňavý
+\[G]Soňa \[C]ví, Soňa \[F]ví, \[G]jak je voňa\[C]vý :|
+\[D]u levýho \[D7]ouška ma\[G]teřídou\[D]ška\[G]
+\[D]u pravýho spánku\[D7] voní po \[G]heřmán\[F]\[Emi]ku
+\[G]Soňa ví,\[C] Soňa ví, \[F]jak je seno vo\[G]ňavý\[C]
+\[G]Soňa ví,\[C] Soňa ví,\[F] jak \[G]je voňavý\[C]
+\endchorus
+\beginverse
+Soňa touží navštěvovat hotely
+kde vám dají snídani až k posteli
+z toho mráčku asi pršet nezačne
+koukali jsme na ceny, jsou přízračné
+Soňa si píše deník a opsala tam: ceník, jó ceník
+\endverse
+\beginchorus
+\endchorus
 \endsong
