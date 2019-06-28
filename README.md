@@ -20,3 +20,15 @@ pdflatex main.tex
 
 Voila, you are done.
 
+## Edits to how the songbook looks
+Change font size:
+
+On the top of main.tex: \documentclass[a4paper, 12pt]{extarticle}
+
+Make song have given number of columns:
+
+\songcolumns{3} % 3 columns
+
+Other tips:
+http://songs.sourceforge.net/songsdoc/songs.html
+
